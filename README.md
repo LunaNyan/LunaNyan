@@ -36,6 +36,6 @@
 
 # Games
 - `2011 ~ NOW` Minecraft `Technical Support Only`
-- `2020/12 ~ 2021/2` Mega Man Battle Network / Rockman EXE GBA, All Cleared
+- `2020/12 ~ 2021/2` Mega Man Battle Network / Rockman EXE GBA 1 ~ 6, All Cleared
 - `2021/1 ~ NOW` DJMAX RESPECT V
 - `2021/2 ~ NOW` Genshin Impact `Lumine`
