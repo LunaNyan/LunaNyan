@@ -37,4 +37,4 @@
 # Games
 - `2011 ~ NOW` Minecraft `Technical Support Only`
 - `2021/1 ~ NOW` DJMAX RESPECT V
-- `2021/2 ~ NOW` Genshin Impact
+- `2021/2 ~ NOW` Genshin Impact `Lumine`
