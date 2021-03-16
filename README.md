@@ -32,11 +32,18 @@
   - CPU : `AMD Ryzen Embedded V1605B 4-Core`
   - RAM : `DDR4 8GB`
   - OS : `Alpine Linux`
-  - Sotrage : `Shitty M.2 SATA SSD, 120GB + 1TB Seagate Mobile HDD`
+  - Sotrage : `Transcend M.2 SATA SSD 120GB + 1TB Seagate Mobile HDD`
 
 # Games
+## Now Playing
 - `2011 ~ NOW` Minecraft `Technical Support Only`
-- `2020/12 ~ 2021/2` Mega Man Battle Network / Rockman EXE GBA 1 ~ 6, All Cleared
 - `2021/1 ~ NOW` DJMAX RESPECT V
 - `2021/2 ~ NOW` Genshin Impact `Lumine`
-- `schedule not implemented` Mega Man Star Force Series & Rockman EXE Operate Shooting Star
+## Cleared
+- `2018/10 ~ 2020/11` MapleStory 2
+- `2020/12 ~ 2021/2` Mega Man Battle Network 1 ~ 6(except for 4.5)
+## Readying for play
+- `estimated in 2021/5` - Mega Man Network Transmission
+- `schedule not implemented` - Rockman EXE 4.5 Real Operation
+- `schedule not implemented` - Mega Man Star Force Series
+- `schedule not implemented` - Rockman EXE Operate Shooting Star
