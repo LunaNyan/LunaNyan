@@ -1,7 +1,7 @@
 # Introduction
 - NEON MONSTERS Director
-- Amateur Programmer who likes Python, C++
-- Craftsman making fun, cool, sexy and useless hardware or code
+- Amateur Programmer who likes Python, C++, Lua
+- Craftsman making fun, cool, sexy and useless stuffs
 
 # Contact
 - Send a DM to [NEON MONSTERS Official Twitter](https://twitter.com/neonmonsterskr)
@@ -13,7 +13,7 @@
 - Oracle Free-Tier VPS * 2 `x86-64`
 
 # What I made and making
-- 기계식 루냥이 (2017 ~ )
+- 기계식 루냥이 (2017 ~ ) `EOL but continuing service`
 - 기계식 루냥이 (2022) `In Development`
 - AMUNAWORLD Minecraft Server (2020 ~ ) `Season 2, preparing Season 3`
 - Genshin Impact Klee Discord Bot (2021 ~ )
