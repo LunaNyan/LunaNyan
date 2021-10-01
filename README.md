@@ -4,7 +4,7 @@
 - Craftsman making fun, cool, sexy and useless hardware or code
 
 # Contact
-- +821089142880 (SMS ONLY)
+- Send a DM to [NEON MONSTERS Official Twitter](https://twitter.com/neonmonsterskr)
 
 # What servers I use
 - HPE ProLiant DL160 Gen10 `Intel Xeon Bronze`
@@ -13,7 +13,9 @@
 - Oracle Free-Tier VPS * 2 `x86-64`
 
 # What I made and making
-- 기계식 루냥이 (2017)
+- 기계식 루냥이 (2017 ~ )
 - 기계식 루냥이 (2022) `In Development`
-- AMUNAWORLD Minecraft Server `Season 2, preparing Season 3`
-- Genshin Impact Klee Discord Bot
+- AMUNAWORLD Minecraft Server (2020 ~ ) `Season 2, preparing Season 3`
+- Genshin Impact Klee Discord Bot (2021 ~ )
+- Mobile Pet Feeding & Training Game (2022) `In Planning`
+- and more..
