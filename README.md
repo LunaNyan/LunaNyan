@@ -17,5 +17,4 @@
 - 기계식 루냥이 (2022) `In Development`
 - AMUNAWORLD Minecraft Server (2020 ~ ) `Season 2, preparing Season 3`
 - Genshin Impact Klee Discord Bot (2021 ~ )
-- Mobile Pet Feeding & Training Game (2022) `In Planning`
 - and more..
