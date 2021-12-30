@@ -13,8 +13,12 @@
 - Oracle Free-Tier VPS * 2 `x86-64`
 
 # What I made and making
-- 기계식 루냥이 (2017 ~ ) `EOL but continuing service`
-- 기계식 루냥이 (2022) `In Development`
+- Discord Bot Engine based on **SKY1** Engine
+  - 기계식 루냥이 (2017 ~ ) `EOL but continuing service`
+  - Genshin Impact Klee Discord Bot (2021 ~ 2022)
+- Discord Bot Engine based on **SKY2** Engine
+  - 기계식 루냥이 (2022) `In Development`
+  - Genshin Impact Klee Discord Bot (2022 ~ )
 - AMUNAWORLD Minecraft Server (2020 ~ ) `Season 2, preparing Season 3`
-- Genshin Impact Klee Discord Bot (2021 ~ )
+
 - and more..
