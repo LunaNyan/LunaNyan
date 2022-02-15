@@ -8,16 +8,29 @@
 
 # What servers I use
 - HPE ProLiant DL160 Gen10 `Intel Xeon Bronze`
-- Custom built server * 1 `AMD RYZEN Embedded`
 - Custom built server * 2 `RPi Zero W` `Samsung Exynos`
 - Oracle Free-Tier VPS * 2 `x86-64`
 
+# S/W / Tools I use
+## OS
+- Windows 11, 10, 7, XP
+- Ubuntu Server 20.04, 18.04
+- ~~CentOS~~ Rocky Linux
+- Alpine Linux
+- FreeBSD
+## IDE
+- JetBrains PyCharm
+- Visual Studio 2010, 2005
+- Jupyter Lab
+## Server
+- APM (Apache2 & PHP & MariaDB)
+
 # What I made and making
 - Discord Bot Engine based on **SKY1** Engine
-  - 기계식 루냥이 (2017 ~ ) `EOL but continuing service`
+  - 기계식 루냥이 (2017 ~ 2022) `EOL`
   - Genshin Impact Klee Discord Bot (2021 ~ 2022)
 - Discord Bot Engine based on **SKY2** Engine
-  - 기계식 루냥이 (2022) `In Development`
+  - 기계식 루냥이 (2022) `In Early-Access`
   - Genshin Impact Klee Discord Bot (2022 ~ )
 - AMUNAWORLD Minecraft Server (2020 ~ ) `Season 2, preparing Season 3`
 
