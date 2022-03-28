@@ -27,11 +27,11 @@
 
 # What I made and making
 - Discord Bot Engine based on **SKY1** Engine
-  - 기계식 루냥이 (2017 ~ 2022) `EOL`
-  - Genshin Impact Klee Discord Bot (2021 ~ 2022)
+  - 기계식 루냥이 (2017 ~ 2022) `EOL, Deprecated`
+  - Genshin Impact Klee Discord Bot (2021 ~ 2022) `Deprecated`
 - Discord Bot Engine based on **SKY2** Engine
-  - 기계식 루냥이 (2022) `In Early-Access`
+  - 기계식 루냥이 (2022 ~ )
   - Genshin Impact Klee Discord Bot (2022 ~ )
-- AMUNAWORLD Minecraft Server (2020 ~ ) `Season 2, preparing Season 3`
+- AMUNAWORLD Minecraft Server (2020 ~ ) `Season 3`
 
 - and more..
