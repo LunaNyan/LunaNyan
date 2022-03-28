@@ -24,6 +24,8 @@
 - Jupyter Lab
 ## Server
 - APM (Apache2 & PHP & MariaDB)
+## MIDI
+- Roland SOUND Canvas SC-8820
 
 # What I made and making
 - Discord Bot Engine based on **SKY1** Engine
