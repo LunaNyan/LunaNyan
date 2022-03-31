@@ -30,7 +30,7 @@
 # What I made and making
 - Discord Bot Engine based on **SKY1** Engine
   - 기계식 루냥이 (2017 ~ 2022) `EOL, Deprecated`
-  - Genshin Impact Klee Discord Bot (2021 ~ 2022) `Deprecated`
+  - Genshin Impact Klee Discord Bot (2021 ~ 2022) `EOL, Deprecated`
 - Discord Bot Engine based on **SKY2** Engine
   - 기계식 루냥이 (2022 ~ )
   - Genshin Impact Klee Discord Bot (2022 ~ )
