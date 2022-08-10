@@ -7,26 +7,22 @@
 - Send a DM to [NEON MONSTERS Official Twitter](https://twitter.com/neonmonsterskr)
 
 # What servers I use
-- HPE ProLiant DL160 Gen10 `Intel Xeon Bronze`
-- Custom built server `RPi Zero W`
-- Custom built server for Kubernetes `AMD Ryzen Embedded`
-- Custom built server * 3 for Kubernetes `Samsung Exynos`
-- Oracle Free-Tier VPS * 2 `x86-64`
+- 1 * Custom built server `x86-64`
+- 2+1 * Oracle Free-Tier VPS `x86-64` `aarch64`
+- Bunch of AWS stuffs
 
 # S/W / Tools I use
 ## OS
-- Windows 11, 10, 7, XP
-- Ubuntu Server 22.04, 20.04
-- ~~CentOS~~ Rocky Linux
-- Alpine Linux
-- FreeBSD
+- Windows 11
+- Kubuntu, whatever the newest LTS is
+- Ubuntu Server 22.04
 ## IDE
 - JetBrains PyCharm
-- Visual Studio 2010, 2005
+- Visual Studio 2017, 2010
 - Jupyter Lab
 ## Server
 - APM (Apache2 & PHP & MariaDB)
-- Kubernetes (K3s)
+- Kubernetes (Amazon EKS)
 ## MIDI
 - Roland SOUND Canvas SC-8820
 
@@ -34,7 +30,7 @@
 - Discord Bot Engine based on **SKY1** Engine
   - 기계식 루냥이 (2017 ~ 2022) `EOL, Deprecated`
   - Genshin Impact Klee Discord Bot (2021 ~ 2022) `EOL, Deprecated`
-- Discord Bot Engine based on **SKY2** Engine with Kubernetes
+- Discord Bot Engine based on ***SKY2** and **NautilusFM** Engine with Kubernetes
   - 기계식 루냥이 (2022 ~ )
   - Genshin Impact Klee Discord Bot (2022 ~ )
 - AMUNAWORLD Minecraft Server (2020 ~ ) `Season 3`
