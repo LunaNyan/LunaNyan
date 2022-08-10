@@ -1,10 +1,11 @@
 # Introduction
 - NEON MONSTERS Director
-- Amateur Programmer who likes Python, C++, Lua
+- Amateur Programmer who likes Python
+- Learning Kotlin
 - Craftsman making fun, cool, sexy and useless stuffs
 
 # Contact
-- Send a DM to [NEON MONSTERS Official Twitter](https://twitter.com/neonmonsterskr)
+- Mail to rein@ganyu.n-e.kr
 
 # What servers I use
 - 1 * Custom built server `x86-64`
